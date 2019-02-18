@@ -2,7 +2,7 @@ package com.leetcode.java;
 
 /**
  * @ClassName ToLowerCase
- * @Description 转换大小写
+ * @Description 709.转换大小写字母
  * @Author zgz
  * @Date 2019-02-15 09:51
  * @Version 1.0

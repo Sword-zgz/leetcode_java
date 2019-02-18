@@ -2,7 +2,7 @@ package com.leetcode.java;
 
 /**
  * @ClassName Jewel
- * @Description 宝石与石头
+ * @Description 771.宝石与石头
  * @Author zgz
  * @Date 2019-02-14 16:52
  * @Version 1.0

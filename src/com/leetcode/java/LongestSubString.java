@@ -5,7 +5,7 @@ import java.util.Set;
 
 /**
  * @ClassName LongestSubString
- * @Description 无重复字符的最长子串
+ * @Description 3.无重复字符的最长子串
  * 复杂度分析
  *
  * 时间复杂度：O(2n) = O(n)，在最糟糕的情况下，每个字符将被 i 和 j 访问两次。

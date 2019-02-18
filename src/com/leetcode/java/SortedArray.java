@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * @ClassName SortedArray
- * @Description 有序数组的平方
+ * @Description 977.有序数组的平方
  * @Author zgz
  * @Date 2019-02-14 17:07
  * @Version 1.0
